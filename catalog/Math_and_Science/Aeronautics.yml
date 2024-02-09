@@ -9,3 +9,4 @@ projects:
   - notam
   - ogn_client-ruby
   - vfr_utils
+  - magvar
